@@ -1,0 +1,16 @@
+device_id,device_type,os_synthetic,first_seen_date
+DEV_000001,laptop,iOS 17,2025-10-26
+DEV_000002,tablet,macOS Sonoma,2025-08-25
+DEV_000003,phone,macOS Sonoma,2025-05-11
+DEV_000004,laptop,Android 14,2025-05-28
+DEV_000005,tablet,Linux Ubuntu,2025-08-15
+DEV_000006,router,Custom OS,2025-06-03
+DEV_000007,router,Windows 11,2025-05-09
+DEV_000008,router,macOS Sonoma,2025-04-12
+DEV_000009,laptop,macOS Sonoma,2025-02-24
+DEV_000010,tablet,Linux Ubuntu,2025-10-20
+DEV_000011,tablet,Android 14,2025-06-01
+DEV_000012,router,Windows 11,2025-12-04
+DEV_000013,phone,Linux Ubuntu,2025-01-05
+DEV_000014,tablet,iOS 17,2025-09-12
+DEV_000015,tablet,iOS 17,2025-11-07

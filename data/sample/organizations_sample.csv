@@ -1,0 +1,16 @@
+org_id,org_type_synthetic,region_synthetic
+ORG_000001,Cyber_Consultancy,Industrial-Zone
+ORG_000002,Retail_Chain,Tech-Park-Alpha
+ORG_000003,Cyber_Consultancy,Suburban-West
+ORG_000004,CallCenter,Industrial-Zone
+ORG_000005,Retail_Chain,West-Harbor
+ORG_000006,Hospitality,West-Harbor
+ORG_000007,Cyber_Consultancy,Financial-District
+ORG_000008,Logistics,Financial-District
+ORG_000009,Fintech,Tech-Park-Alpha
+ORG_000010,Hospitality,Industrial-Zone
+ORG_000011,Hospitality,Financial-District
+ORG_000012,CallCenter,East-Coast
+ORG_000013,CallCenter,North-Metro
+ORG_000014,Logistics,Suburban-West
+ORG_000015,Cyber_Consultancy,Tech-Park-Alpha

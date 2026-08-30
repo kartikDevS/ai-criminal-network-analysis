@@ -1,0 +1,16 @@
+event_id,is_anomalous,anomaly_type,severity,generation_reason
+EVT_000001,False,NORMAL,none,Standard event within normal baseline
+EVT_000002,False,NORMAL,none,Standard event within normal baseline
+EVT_000003,False,NORMAL,none,Standard event within normal baseline
+EVT_000004,False,NORMAL,none,Standard event within normal baseline
+EVT_000005,False,NORMAL,none,Standard event within normal baseline
+EVT_000006,False,NORMAL,none,Standard event within normal baseline
+EVT_000007,False,NORMAL,none,Standard event within normal baseline
+EVT_000008,False,NORMAL,none,Standard event within normal baseline
+EVT_000009,False,NORMAL,none,Standard event within normal baseline
+EVT_000010,False,NORMAL,none,Standard event within normal baseline
+EVT_000011,False,NORMAL,none,Standard event within normal baseline
+EVT_000012,False,NORMAL,none,Standard event within normal baseline
+EVT_000013,False,NORMAL,none,Standard event within normal baseline
+EVT_000014,False,NORMAL,none,Standard event within normal baseline
+EVT_000015,False,NORMAL,none,Standard event within normal baseline
