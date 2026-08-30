@@ -1,0 +1,101 @@
+entity_id,is_anomalous,anomaly_type,severity,start_time,end_time,generation_reason,internal_behavior_tag
+PER_000001,True,HIGH_ACTIVITY,high,2025-03-21,2025-12-31,High connectivity hub across disparate groups,hub
+PER_000002,True,CLUSTERED,critical,2025-01-12,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000003,False,NORMAL,none,2025-04-27,2025-12-31,Standard individual activity baseline,normal
+PER_000004,False,NORMAL,none,2025-05-07,2025-12-31,Standard individual activity baseline,normal
+PER_000005,False,NORMAL,none,2025-01-28,2025-12-31,Standard individual activity baseline,normal
+PER_000006,False,NORMAL,none,2025-05-13,2025-12-31,Standard individual activity baseline,normal
+PER_000007,False,NORMAL,none,2025-02-01,2025-12-31,Standard individual activity baseline,normal
+PER_000008,False,NORMAL,none,2025-05-24,2025-12-31,Standard individual activity baseline,normal
+PER_000009,False,NORMAL,none,2025-04-20,2025-12-31,Standard individual activity baseline,normal
+PER_000010,False,NORMAL,none,2025-04-26,2025-12-31,Standard individual activity baseline,normal
+PER_000011,False,NORMAL,none,2025-05-14,2025-12-31,Standard individual activity baseline,normal
+PER_000012,True,BURST_ACTIVITY,high,2025-01-20,2025-12-31,Sudden 5x-10x surge in daily event velocity,spike
+PER_000013,False,NORMAL,none,2025-03-27,2025-12-31,Standard individual activity baseline,normal
+PER_000014,False,NORMAL,none,2025-03-01,2025-12-31,Standard individual activity baseline,normal
+PER_000015,False,NORMAL,none,2025-01-17,2025-12-31,Standard individual activity baseline,normal
+PER_000016,True,CLUSTERED,critical,2025-04-30,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000017,False,NORMAL,none,2025-04-10,2025-12-31,Standard individual activity baseline,normal
+PER_000018,True,CLUSTERED,critical,2025-05-03,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000019,False,NORMAL,none,2025-04-18,2025-12-31,Standard individual activity baseline,normal
+PER_000020,False,NORMAL,none,2025-03-11,2025-12-31,Standard individual activity baseline,normal
+PER_000021,False,NORMAL,none,2025-03-28,2025-12-31,Standard individual activity baseline,normal
+PER_000022,True,LOCATION_ANOMALY,medium,2025-04-30,2025-12-31,Teleportation / impossible velocity between regions,rapid_location
+PER_000023,False,NORMAL,none,2025-01-07,2025-12-31,Standard individual activity baseline,normal
+PER_000024,True,CLUSTERED,critical,2025-01-22,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000025,False,NORMAL,none,2025-02-16,2025-12-31,Standard individual activity baseline,normal
+PER_000026,False,NORMAL,none,2025-02-24,2025-12-31,Standard individual activity baseline,normal
+PER_000027,True,CLUSTERED,critical,2025-03-13,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000028,False,NORMAL,none,2025-05-01,2025-12-31,Standard individual activity baseline,normal
+PER_000029,False,NORMAL,none,2025-01-18,2025-12-31,Standard individual activity baseline,normal
+PER_000030,False,NORMAL,none,2025-02-21,2025-12-31,Standard individual activity baseline,normal
+PER_000031,False,NORMAL,none,2025-03-03,2025-12-31,Standard individual activity baseline,normal
+PER_000032,False,NORMAL,none,2025-05-25,2025-12-31,Standard individual activity baseline,normal
+PER_000033,False,NORMAL,none,2025-04-05,2025-12-31,Standard individual activity baseline,normal
+PER_000034,False,NORMAL,none,2025-01-28,2025-12-31,Standard individual activity baseline,normal
+PER_000035,True,LOCATION_ANOMALY,medium,2025-04-12,2025-12-31,Teleportation / impossible velocity between regions,rapid_location
+PER_000036,False,NORMAL,none,2025-01-27,2025-12-31,Standard individual activity baseline,normal
+PER_000037,False,NORMAL,none,2025-05-25,2025-12-31,Standard individual activity baseline,normal
+PER_000038,True,COMMUNICATION_ANOMALY,medium,2025-04-20,2025-12-31,Short rapid-fire ping calls / SMS blasting,comm_burst
+PER_000039,False,NORMAL,none,2025-03-29,2025-12-31,Standard individual activity baseline,normal
+PER_000040,False,NORMAL,none,2025-04-21,2025-12-31,Standard individual activity baseline,normal
+PER_000041,True,LOCATION_ANOMALY,medium,2025-04-22,2025-12-31,Teleportation / impossible velocity between regions,rapid_location
+PER_000042,True,CLUSTERED,critical,2025-05-04,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000043,True,SHARED_INFRASTRUCTURE,high,2025-03-24,2025-12-31,SIM bank / fraud device multiplexing across accounts,shared_infra_anom
+PER_000044,False,NORMAL,none,2025-04-26,2025-12-31,Standard individual activity baseline,normal
+PER_000045,True,SHARED_INFRASTRUCTURE,high,2025-03-28,2025-12-31,SIM bank / fraud device multiplexing across accounts,shared_infra_anom
+PER_000046,False,NORMAL,none,2025-05-05,2025-12-31,Standard individual activity baseline,normal
+PER_000047,False,NORMAL,none,2025-03-13,2025-12-31,Standard individual activity baseline,normal
+PER_000048,False,NORMAL,none,2025-05-13,2025-12-31,Standard individual activity baseline,normal
+PER_000049,False,NORMAL,none,2025-05-06,2025-12-31,Legitimate household / shared corporate gateway,shared_infra_norm
+PER_000050,True,CLUSTERED,critical,2025-05-06,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000051,False,NORMAL,none,2025-02-26,2025-12-31,Standard individual activity baseline,normal
+PER_000052,False,NORMAL,none,2025-05-02,2025-12-31,Standard individual activity baseline,normal
+PER_000053,False,NORMAL,none,2025-03-26,2025-12-31,Standard individual activity baseline,normal
+PER_000054,False,NORMAL,none,2025-03-06,2025-12-31,Standard individual activity baseline,normal
+PER_000055,False,NORMAL,none,2025-03-22,2025-12-31,Standard individual activity baseline,normal
+PER_000056,False,NORMAL,none,2025-05-04,2025-12-31,Standard individual activity baseline,normal
+PER_000057,False,NORMAL,none,2025-03-17,2025-12-31,Standard individual activity baseline,normal
+PER_000058,False,NORMAL,none,2025-01-04,2025-12-31,Standard individual activity baseline,normal
+PER_000059,True,HIGH_ACTIVITY,high,2025-01-14,2025-12-31,High connectivity hub across disparate groups,hub
+PER_000060,False,NORMAL,none,2025-05-06,2025-12-31,Legitimate high-frequency merchant / frequent flyer,ambiguous_norm
+PER_000061,False,NORMAL,none,2025-05-01,2025-12-31,Standard individual activity baseline,normal
+PER_000062,True,HIGH_ACTIVITY,high,2025-01-14,2025-12-31,High connectivity hub across disparate groups,hub
+PER_000063,True,BURST_ACTIVITY,high,2025-04-13,2025-12-31,Sudden 5x-10x surge in daily event velocity,spike
+PER_000064,False,NORMAL,none,2025-02-08,2025-12-31,Standard individual activity baseline,normal
+PER_000065,False,NORMAL,none,2025-01-31,2025-12-31,Standard individual activity baseline,normal
+PER_000066,False,NORMAL,none,2025-05-14,2025-12-31,Standard individual activity baseline,normal
+PER_000067,False,NORMAL,none,2025-04-20,2025-12-31,Standard individual activity baseline,normal
+PER_000068,False,NORMAL,none,2025-02-23,2025-12-31,Standard individual activity baseline,normal
+PER_000069,False,NORMAL,none,2025-02-10,2025-12-31,Standard individual activity baseline,normal
+PER_000070,False,NORMAL,none,2025-02-10,2025-12-31,Standard individual activity baseline,normal
+PER_000071,False,NORMAL,none,2025-03-16,2025-12-31,Standard individual activity baseline,normal
+PER_000072,True,BURST_ACTIVITY,high,2025-04-27,2025-12-31,Sudden 5x-10x surge in daily event velocity,spike
+PER_000073,True,HIGH_ACTIVITY,high,2025-04-19,2025-12-31,High connectivity hub across disparate groups,hub
+PER_000074,False,NORMAL,none,2025-03-10,2025-12-31,Standard individual activity baseline,normal
+PER_000075,False,NORMAL,none,2025-02-12,2025-12-31,Standard individual activity baseline,normal
+PER_000076,True,SHARED_INFRASTRUCTURE,high,2025-04-23,2025-12-31,SIM bank / fraud device multiplexing across accounts,shared_infra_anom
+PER_000077,False,NORMAL,none,2025-04-14,2025-12-31,Standard individual activity baseline,normal
+PER_000078,True,BURST_ACTIVITY,high,2025-01-11,2025-12-31,Sudden 5x-10x surge in daily event velocity,spike
+PER_000079,False,NORMAL,none,2025-03-06,2025-12-31,Standard individual activity baseline,normal
+PER_000080,False,NORMAL,none,2025-03-10,2025-12-31,Standard individual activity baseline,normal
+PER_000081,False,NORMAL,none,2025-05-13,2025-12-31,Standard individual activity baseline,normal
+PER_000082,False,NORMAL,none,2025-04-22,2025-12-31,Standard individual activity baseline,normal
+PER_000083,False,NORMAL,none,2025-03-31,2025-12-31,Standard individual activity baseline,normal
+PER_000084,False,NORMAL,none,2025-02-11,2025-12-31,Standard individual activity baseline,normal
+PER_000085,False,NORMAL,none,2025-03-15,2025-12-31,Standard individual activity baseline,normal
+PER_000086,False,NORMAL,none,2025-04-27,2025-12-31,Standard individual activity baseline,normal
+PER_000087,True,CLUSTERED,critical,2025-01-30,2025-12-31,Coordinated syndicate / money mule cluster,cluster_member
+PER_000088,False,NORMAL,none,2025-05-19,2025-12-31,Standard individual activity baseline,normal
+PER_000089,False,NORMAL,none,2025-05-13,2025-12-31,Standard individual activity baseline,normal
+PER_000090,False,NORMAL,none,2025-01-14,2025-12-31,Standard individual activity baseline,normal
+PER_000091,False,NORMAL,none,2025-03-15,2025-12-31,Legitimate household / shared corporate gateway,shared_infra_norm
+PER_000092,False,NORMAL,none,2025-03-03,2025-12-31,Standard individual activity baseline,normal
+PER_000093,True,HIGH_ACTIVITY,high,2025-01-04,2025-12-31,High connectivity hub across disparate groups,hub
+PER_000094,False,NORMAL,none,2025-01-30,2025-12-31,Standard individual activity baseline,normal
+PER_000095,False,NORMAL,none,2025-05-08,2025-12-31,Legitimate high-frequency merchant / frequent flyer,ambiguous_norm
+PER_000096,False,NORMAL,none,2025-04-17,2025-12-31,Standard individual activity baseline,normal
+PER_000097,False,NORMAL,none,2025-04-27,2025-12-31,Standard individual activity baseline,normal
+PER_000098,False,NORMAL,none,2025-05-11,2025-12-31,Standard individual activity baseline,normal
+PER_000099,True,COMMUNICATION_ANOMALY,medium,2025-04-17,2025-12-31,Short rapid-fire ping calls / SMS blasting,comm_burst
+PER_000100,False,NORMAL,none,2025-03-18,2025-12-31,Legitimate high-frequency merchant / frequent flyer,ambiguous_norm

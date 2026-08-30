@@ -1,0 +1,16 @@
+ip_id,ip_synthetic,ip_type,region_synthetic
+IP_000001,198.113.8.14,vpn,North-Metro
+IP_000002,198.0.15.27,datacenter,Border-Transit
+IP_000003,198.0.22.40,residential,West-Harbor
+IP_000004,198.51.29.53,mobile,East-Coast
+IP_000005,198.51.36.66,vpn,Tech-Park-Alpha
+IP_000006,198.0.43.79,residential,Industrial-Zone
+IP_000007,198.113.50.92,datacenter,East-Coast
+IP_000008,198.0.57.105,datacenter,Suburban-West
+IP_000009,198.113.64.118,mobile,Suburban-West
+IP_000010,198.113.71.131,vpn,South-Metro
+IP_000011,198.51.78.144,residential,Financial-District
+IP_000012,198.0.85.157,datacenter,South-Metro
+IP_000013,198.51.92.170,datacenter,Border-Transit
+IP_000014,198.51.99.183,datacenter,Central-Highlands
+IP_000015,198.0.106.196,datacenter,North-Metro

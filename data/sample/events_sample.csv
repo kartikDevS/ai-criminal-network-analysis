@@ -1,0 +1,21 @@
+event_id,event_type,timestamp,source_person_id,target_person_id,phone_id,device_id,ip_id,account_id,location_id,amount,duration_seconds,direction,status,channel,transaction_type
+EVT_003908,login,2025-01-01 01:58:22,PER_000024,,PH_000024,DEV_000034,IP_000026,,LOC_000083,,,,completed,web,
+EVT_001894,call,2025-01-01 06:17:05,PER_000027,PER_000087,PH_000245,,,,LOC_000097,,251.0,internal,completed,web,
+EVT_005375,sms,2025-01-01 08:03:59,PER_000055,PER_000089,PH_000191,,,,LOC_000016,,,outbound,completed,ussd,
+EVT_005051,location_ping,2025-01-01 08:44:16,PER_000021,,,DEV_000096,,,LOC_000114,,,,completed,web,
+EVT_002092,sms,2025-01-01 08:48:18,PER_000093,PER_000083,PH_000262,,,,LOC_000116,,,inbound,completed,api,
+EVT_004968,sms,2025-01-01 08:50:49,PER_000003,PER_000065,PH_000126,,,,LOC_000054,,,outbound,completed,ussd,
+EVT_004427,transaction,2025-01-01 10:09:53,PER_000056,PER_000046,,DEV_000071,IP_000063,ACC_000056,LOC_000036,1472.2,,outbound,completed,ussd,p2p
+EVT_005025,call,2025-01-01 10:27:40,PER_000045,PER_000090,PH_000273,,,,LOC_000004,,694.0,internal,completed,mobile_app,
+EVT_003734,call,2025-01-01 12:21:59,PER_000059,PER_000025,PH_000180,,,,LOC_000095,,343.0,internal,completed,pos,
+EVT_006112,sms,2025-01-01 12:58:02,PER_000087,PER_000024,PH_000087,,,,LOC_000099,,,internal,completed,ussd,
+EVT_006580,transaction,2025-01-01 13:39:12,PER_000043,PER_000036,,DEV_000001,IP_000001,ACC_000143,LOC_000110,2584.27,,internal,completed,api,payment
+EVT_001365,sms,2025-01-01 14:03:11,PER_000073,PER_000071,PH_000116,,,,LOC_000015,,,outbound,completed,mobile_app,
+EVT_005654,call,2025-01-01 14:12:56,PER_000016,PER_000042,PH_000016,,,,LOC_000054,,355.0,outbound,completed,ussd,
+EVT_003748,call,2025-01-01 15:06:21,PER_000094,PER_000089,PH_000094,,,,LOC_000060,,398.0,inbound,completed,mobile_app,
+EVT_002574,call,2025-01-01 15:33:20,PER_000073,PER_000097,PH_000244,,,,LOC_000015,,383.0,inbound,completed,web,
+EVT_002321,sms,2025-01-01 16:03:43,PER_000001,PER_000096,PH_000001,,,,LOC_000029,,,internal,completed,atm,
+EVT_004100,location_ping,2025-01-01 16:16:52,PER_000027,,,DEV_000042,,,LOC_000097,,,,completed,atm,
+EVT_001642,login,2025-01-01 16:32:54,PER_000003,,PH_000221,DEV_000056,IP_000039,,LOC_000054,,,,completed,pos,
+EVT_000653,location_ping,2025-01-01 18:31:55,PER_000087,,,DEV_000061,,,LOC_000099,,,,completed,ussd,
+EVT_002845,location_ping,2025-01-01 18:56:55,PER_000093,,,DEV_000118,,,LOC_000071,,,,completed,ussd,
